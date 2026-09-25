@@ -1,0 +1,156 @@
+{
+  "version": 2,
+  "template_version": "612e752c89f695570dfa",
+  "page_size": 20,
+  "site_id": "0ea3fc91ef9848f6829e995d",
+  "owner": "qujuvbnxk",
+  "repo": "page-764a2ffb314effd04b0d2bee",
+  "title": "一元机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "764a2ffb314effd04b0d2bee",
+      "a": "一元机场",
+      "b": "2026最新注册地址",
+      "entity": "一元机场",
+      "brand": "一元机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "867b57574fae6902c196f1628b6da28233013f4ac8027f7c2dee6f8f2fe36a2d",
+      "content": {
+        "keyword1": "一元机场",
+        "keyword2": "2026最新注册地址",
+        "primary_entity": "一元机场",
+        "content": {
+          "AI_DESCRIPTION": "，一元机场提供基础版、旗舰版和团队版三档订阅，流量从每月 100GB 到 1000GB，可满足个人、家庭和团队的不同需求。选购时先看设备数量与流量消耗，再结合按年付优惠，评估长期使用成本。",
+          "AI_HERO_SUBTITLE": "三档订阅，按需选配",
+          "AI_HERO_INTRO": "一元机场围绕不同场景提供基础版、旗舰版和团队版订阅方案，流量从每月 100GB 到 1000GB，设备数量从 3 台到 20 台。选套餐时先统计常用设备数，再对照每月流量上限，就能找到合适的档位。",
+          "AI_VISUAL_TITLE": "一元机场订阅方案",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量、3 台设备，按年付 ¥150，适合轻度使用者。",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB 流量、5 台设备，按年付 ¥350，带 IPLC 专线和优先工单。",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB 流量、20 台设备，按年付 ¥850，支持企业定制路由。",
+          "AI_FEATURES_TITLE": "订阅特点",
+          "AI_FEATURES_INTRO": "三档套餐覆盖个人到团队，流量、设备数和线路配置逐级提升，可依据使用习惯选择。",
+          "AI_FEATURE_TITLE_1": "流量按档区分",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，先估算每月使用量再匹配合适档位，避免频繁调整。",
+          "AI_FEATURE_TITLE_2": "设备数量对应",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。统计手机、电脑和平板的总数，就能判断需要哪一档。",
+          "AI_FEATURE_TITLE_3": "按年付更省",
+          "AI_FEATURE_TEXT_3": "基础版按年付 ¥150、旗舰版 ¥350、团队版 ¥850。长期使用的话，按年付比按月付的总额更低，可以结合使用周期决定。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "订阅后需要在客户端里导入配置。Windows 和 macOS 可选 Clash Verge、v2rayN 等图形客户端；iOS 可在 App Store 下载 Shadowrocket；Android 常用 v2rayNG；路由器可刷 OpenWrt 后配合相应插件。不同客户端对订阅格式的支持有差异，导入前先确认是否兼容。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人或轻度使用；旗舰版流量和设备数居中，带 IPLC 专线；团队版面向多人共享和较高带宽需求。对照每月流量和在线设备数，就能选出合适的一档。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，可以分为三步。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数量，在基础版、旗舰版和团队版之间挑选。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "查看所选客户端的系统版本要求和订阅格式兼容情况，确保设备满足条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按照对应客户端的说明导入订阅链接，完成节点加载后即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一元机场三档套餐有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，带 IPLC 专线和优先工单；团队版每月 1000GB、20 台设备，支持企业定制路由。按使用规模和设备数选择即可。",
+          "AI_FAQ_QUESTION_2": "按年付比按月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版按月 ¥15，按年付 ¥150；旗舰版按月 ¥35，按年付 ¥350；团队版按月 ¥85，按年付 ¥850。长期使用的话，按年付能省下相当于两个月的费用。",
+          "AI_FAQ_QUESTION_3": "一台订阅可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。统计常用设备总数再选套餐，如果经常在手机和电脑之间切换，建议选设备数宽裕的档位。",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "复制订阅链接后，打开对应客户端找到订阅或配置导入入口，粘贴链接并更新即可加载节点。不同客户端的操作路径略有不同，可参考其内置说明完成。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备，还提供 VIP 专属高带宽节点和企业定制路由，适合多人共享或对带宽要求较高的小团队使用。",
+          "AI_CLOSING_TITLE": "选对档位",
+          "AI_CLOSING_TEXT": "先看流量和设备数，再从基础版、旗舰版或团队版中挑一档，按年付更省。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_generation": {
+          "version": 5,
+          "task": "764a2ffb314effd04b0d2bee",
+          "related_topics": []
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nspbv.cn",
+    "host": "cn.nspbv.cn",
+    "kind": "subdomain"
+  },
+  "friendlinks": [
+    {
+      "host": "nspbv.cn",
+      "url": "https://nspbv.cn/",
+      "label": "LabX",
+      "apex": "nspbv.cn",
+      "kind": null,
+      "identity": "jyqtvbjrr/page-1988331fe22122512331a303"
+    },
+    {
+      "host": "nijcrjv.cn",
+      "url": "https://nijcrjv.cn/",
+      "label": "一元机场",
+      "apex": "nijcrjv.cn",
+      "kind": null,
+      "identity": "qcmxgvja/page-e23f786fffa155d61c33f156"
+    },
+    {
+      "host": "njlfmm.cn",
+      "url": "https://njlfmm.cn/",
+      "label": "一元机场",
+      "apex": "njlfmm.cn",
+      "kind": null,
+      "identity": "rrwvhebydh/page-681f7721649366a078df7e68"
+    }
+  ],
+  "file_hashes": {
+    "assets/6f0f3b111882a70a065487b0.webp": "0a1cfad51249dbd15c9b5a79bf626e1bce570101897715087d01c5c054c175d2",
+    "assets/3dcb7b5ce4a0e52fa8237907.png": "2874cca72d3a131a258b003787edb3ce0bab6c1ab0afbfdfb0b626d59549c9ae",
+    "index.html": "86f3f270a6f49216f68271cf573488d45a4eef078b6e4376f0ae1653a333c5b7",
+    "sitemap.xml": "13a0390934a6098fd56fe3a2ef48ed5352c4de8ff6dfa2a1448e6c39ddd3b8f4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c9d6a395055b029ab956233f7b03893b1b276d2bc1c62229c69421388ed4237e",
+    "robots.txt": "13970e076ca6db94468a7badfd0e1f93b9621002786f701af21eb077f63694c7",
+    "7e0baa49bba8d9f4106feade58e6f4d1.txt": "4f2af7680959e471c5f82336f7fe899cef865e866f912d616b272ca03ae1b9a7"
+  },
+  "revision": "00c60679919fbb3b2530e40df0fa2ea4fc0b50948f83c28e83b05005f9940439"
+}
